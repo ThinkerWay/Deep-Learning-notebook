@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*- 
-# 预训练词向量下：https://github.com/shiyanlou-015555/Chinese-Word-Vectors
+# 程序参考：https://github.com/monkeyDemon/Learn_Dive-into-DL-PyTorch/blob/master/assignment2_Recommended_Comments/bi-lstm
+# 预训练词向量：https://github.com/shiyanlou-015555/Chinese-Word-Vectors
 
 import collections
 import os
